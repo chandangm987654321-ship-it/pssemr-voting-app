@@ -1,0 +1,6 @@
+{
+  "name": "PSSEMR Digital Voting System",
+  "description": "PSSEMR School Digital Voting System — Your Vote. Your Voice. Your Choice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
